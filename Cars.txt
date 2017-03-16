@@ -1,0 +1,15 @@
+Station , Suzuki , false , 9001 , 120 , 100 , true , 0 , 22 , false , 32 , 22 , true , 32 , 22 , true , 32 , 22 , false , 321678321
+Focus , Ford , false , 1400 , 80 , 70 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22, false , 798798123
+Pikanto , Kaya , true , 1500 , 80 , 70 , false , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 457691212
+OLD , Mercedes , false , 3500 , 80 , 70 , false , 40 , 2 , false , 40 , 2 , false , 40 , 2 , false , 40 , 2 , false , 1199119925
+XXX , Audi , false , 9001 , 120 , 100 , true , 0 , 22 , true , 32 , 22 , false , 32 , 22 , true , 32 , 22 , true , 421421421
+Baleno , Suzuki , false , 1400 , 80 , 70 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22, false , 111735751
+Familier , Nissan , true , 6400 , 80 , 70 , false , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 519258717
+Corona , Toyota , false , 6400 , 80 , 70 , false , 40 , 2 , false , 40 , 2 , true , 40 , 2 , false , 40 , 2 , false , 456411113
+Radd , Subaru , false , 2500 , 120 , 100 , false , 0 , 22 , true , 32 , 22 , true , 32 , 22 , true , 32 , 22 , true , 112332313
+Legend , Porsche , false , 1400 , 80 , 70 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22 , false , 32 , 22, false , 302641910
+One , Formula , true , 7000 , 80 , 70 , false , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 311145631
+Potato , Honda , false , 2500 , 80 , 70 , false , 40 , 2 , false , 40 , 2 , false , 40 , 2 , true , 40 , 2 , false , 519943857
+Lada , Hyandie , false , 2000 , 120 , 100 , true , 0 , 22 , true , 32 , 22 , true , 32 , 22 , false , 32 , 22 , true , 456475753
+Swift , Suzuki , true , 1400 , 80 , 70 , true , 32 , 22 , true , 32 , 22 , true , 32 , 22 , true , 32 , 22, true , 184401833
+Bummer , Tank , true , 10000 , 80 , 70 , false , 0 , 24 , false , 0 , 24 , true , 0 , 24 , true , 0 , 24 , true , 304835887

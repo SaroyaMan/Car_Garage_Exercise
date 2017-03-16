@@ -1,0 +1,5 @@
+Please start the program through the command prompt (CMD).
+and start it like this::
+
+CAR_PROJECT Customers.txt Cars.txt
+(the order is very important!)
